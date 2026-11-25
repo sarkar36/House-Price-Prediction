@@ -27,3 +27,7 @@ XGBoost Regressor
 
 ## Author
 Electronics and Communication Engineering Student
+
+## Kaggle Notebook
+
+[View Notebook on Kaggle](https://www.kaggle.com/code/eqfnkwse/notebook285230995f)
